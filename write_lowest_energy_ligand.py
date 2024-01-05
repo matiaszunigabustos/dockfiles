@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+# coding=utf-8
 # 
 #
 # $Header: /opt/cvs/python/packages/share1.5/AutoDockTools/Utilities24/write_lowest_energy_ligand.py,v 1.3 2012/01/31 18:00:39 rhuey Exp $
